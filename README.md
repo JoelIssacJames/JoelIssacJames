@@ -2,8 +2,9 @@
 
 ### Namaste!, I am Joel James 👋
 
-[![linkedin](https://img.shields.io/website?label=Joel James&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/www.linkedin.com/in/joelissac999/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Joel James?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/joelissac999)
+[![linkedin](https://img.shields.io/website?label=Joel&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/joelissac999/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Joel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/joelissac999)
+
 
 
 ### I'm an Undergrad Student and a Data Science Enthusiast!
