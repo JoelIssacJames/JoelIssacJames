@@ -1,6 +1,6 @@
 
 
-### Namaste!, I am Joel James 👋
+### Hello! I am Joel James 👋
 
 [![linkedin](https://img.shields.io/website?label=Joel&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/joelissac999/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/joelissac999)
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Do star ❤️ my repositories, if you like them!
 
 </div>
 
