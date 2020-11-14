@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a project related to COVID-19...
 - 🌱 I’m currently learning Data Science...
 - 👯 I’m looking to collaborate on projects related to Machine Learning, Deep Learning or Data Science... Please do put down a mail, if you have creative ideas we can work on.
-- 📫 How to reach me: joeljamesbond@gmail.com 
+- 📫 How to reach me: joelissac1999@gmail.com 
 - ⚡ Fun fact: I love playing different musical instruments
 
 ### Connect with me:
