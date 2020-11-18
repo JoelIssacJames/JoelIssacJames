@@ -1,13 +1,13 @@
 
 
-### Hello! I am 𝓙𝓸𝓮𝓵 𝓙𝓪𝓶𝓮𝓼 👋
+### 𝐻𝑒𝓁𝓁𝑜! 𝐼 𝒶𝓂 𝓙𝓸𝓮𝓵 𝓙𝓪𝓶𝓮𝓼 👋
 
 [![linkedin](https://img.shields.io/website?label=Joel&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/joelissac999/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/joelissac999)
 
 
 
-### An aspiring 𝓓𝓪𝓽𝓪 𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽!
+### 𝒜𝓃 𝒶𝓈𝓅𝒾𝓇𝒾𝓃𝑔 𝓓𝓪𝓽𝓪 𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽!
 
 Here are some ideas to get you started:
 
